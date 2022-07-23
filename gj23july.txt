@@ -1,4 +1,5 @@
 GIT And Jenkins integrated sucessfully..
 
 Raja kaiya vacha pathadhu,, Manasu Vaikanum boss uhh...
-Adding a new Content
+Adding a new Commit
+Adding another commit
